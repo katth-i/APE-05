@@ -38,7 +38,6 @@ public:
             cout << "¡Nota invalida! Debe ser un numero entre 0 y 10.\n";
             cin.clear();
             cin.ignore(10000, '\n');
-            return 0;
         }
     }
 
@@ -119,7 +118,6 @@ int main() {
             cin.clear();
             cin.ignore(10000, '\n');
             continue;
-            return 0;
         }
 
         switch (opcion) {
