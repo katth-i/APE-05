@@ -1,0 +1,2 @@
+1804567890|Ana Torres|Software|9.25
+1800123456|Luis Perez|Industrial|7.80
